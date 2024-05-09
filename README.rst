@@ -1,16 +1,9 @@
-===============
-ACADEMIA ABERTA
-===============
-
-Um jornal acadêmico de acesso aberto.
-
-VERSION
--------
-
-0.1.0
+==========
+Dos Leigos
+==========
 
 
-LICENSE
+License
 -------
 
 The MIT License
